@@ -1,0 +1,70 @@
+body {
+  background-color: rgb(101, 104, 105);
+  font-family: "Times New Roman", Times, serif;
+}
+
+h4 {
+  font-weight: bold;
+  line-height: 20px;
+  padding-bottom: 10px;
+}
+
+.hours {
+  font-size: 35px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-left: 30px;
+}
+
+h3 {
+  font-size: 35px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+hr {
+  line-height: 3px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 25px;
+}
+
+li {
+  font-size: 20px;
+  margin-left: 50%;
+}
+
+#upperlist {
+  line-height: 40px;
+  font-weight: bold;
+  font-size: 25px;
+  margin-left: 20px;
+}
+
+#left-list {
+  font-size: 25px;
+  font-weight: bold;
+}
+#left-list-head {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#jakes {
+  padding-right: 30%;
+}
+
+.left-borda {
+  border: 3px dashed black;
+  padding-bottom: 10%;
+}
+
+.divide {
+  border-left-color: rgb(0, 0, 0);
+  border-left-width: thick;
+  border-left-style: solid;
+
+}
